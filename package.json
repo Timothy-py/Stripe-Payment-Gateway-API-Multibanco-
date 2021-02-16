@@ -1,0 +1,29 @@
+{
+  "name": "stripe-payment-gateway-api-multibanco-",
+  "version": "1.0.0",
+  "description": "Use Stripe to accept payments using Multibanco, the most popular payment method in Portugal.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timothy-py/Stripe-Payment-Gateway-API-Multibanco-.git"
+  },
+  "keywords": [
+    "Stripe",
+    "Multiblanco",
+    "Payment"
+  ],
+  "author": "Timothy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Timothy-py/Stripe-Payment-Gateway-API-Multibanco-/issues"
+  },
+  "homepage": "https://github.com/Timothy-py/Stripe-Payment-Gateway-API-Multibanco-#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "stripe": "^8.135.0"
+  }
+}
